@@ -5,7 +5,7 @@
 
 I'm James, a English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿 hybrid living in Nottingham 🏹, UK 🇬🇧. 
 
-Have a passion for Procedural generation, mostly emphasized through generate art using Blender3D / Python.
+Have a passion for Procedural generation, mostly emphasized through generative art using Blender3D / Python.
 
 Primarily do mobile (Swift, Kotlin) and web development (NodeJS, Typescript, React), with some minimal AWS experience.
 
